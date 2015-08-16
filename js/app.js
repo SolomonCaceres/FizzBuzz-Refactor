@@ -29,7 +29,7 @@ if(!text){
 
 
 else if(num){
-	alert('yes');
+	fizzbuzz();
 }
 
 });
